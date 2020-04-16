@@ -1,4 +1,4 @@
-# 3D Reconstruction of Epithelial Surface using Optical Flow
+# 3D Reconstruction of Epithelial Surfaces using Optical Flow
 We provide Matlab codes and supplementary materials of the paper:
 
 Tan-Binh Phan, Dinh-Hoan Trinh, Didier Wolf, Christian Daul, "Optical Flow-based Structure-from-Motion for the Reconstruction of Epithelial Surfaces," Pattern Recognition (accepted April, 2020).

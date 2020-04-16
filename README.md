@@ -4,4 +4,4 @@ We provide supplementary materials of the paper.
 * To use Matlab codes: 
   - Use 64 bit MATLAB 8.X or 9.X for Windows.
   - Download and unzip OF_CODE.zip and then set path to the OF_CODE directory as well as its subfolders
-  - To test 3D reconstruction, download and unzip HP groups Matlab.zip. Read readme.txt.
+  - To test 3D reconstruction, download and unzip the "HP groups Matlab.zip". Then, follow the comments in readme.txt.
